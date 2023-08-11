@@ -21,7 +21,7 @@
 
 <!-- ########################################################################## -->
 
-# <small> Ming YAN <br> 延 鸣 </small> 
+# <small> Ming YAN | 延 鸣 </small> 
 
 <div>
     <div style="float:left">
