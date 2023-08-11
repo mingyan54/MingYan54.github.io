@@ -39,7 +39,7 @@
     </br>
     </div>
     <div style="float:right">
-        <img class ="image1" src="./figures/profile2.JPG" width="" height="">
+        <img class ="image1" src="./figures/profile2.jpeg" width="" height="">
     </div>
 </div>
 
