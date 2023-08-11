@@ -19,27 +19,27 @@
 	
 </style>
 
-# <small>Rowan Wei GENG | 耿伟 </small> 
+<!-- ########################################################################## -->
+
+# <small> Ming YAN <br> 延 鸣 </small> 
 
 <div>
     <div style="float:left">
-        <a href="mailto:wgeng252@connect.hkust-gz.edu.cn">wgeng252 (at) connect (dot) hkust-gz (dot) edu (dot) cn</a>
-        <br>
-        <a href="mailto:rowan.gw@outlook.com">rowan.gw (at) outlook (dot) com</a>
-        <br>
-        <a href="https://github.com/vigeng" >
-        <i class="fa fa-github"> </i>
-        </a>
+        <a href="mailto:wgeng252@connect.hkust-gz.edu.cn">ming.yan (at) polimi (dot) it</a>
+        <!-- <br>
+        <a href="https://github.com/MingYan54" >
+        <i class="fa fa-github"> </i> -->
+        <!-- </a>
         <a href=" https://www.linkedin.com/in/rowangw/" >
         <i class="fa fa-linkedin" aria-hidden="true"></i>
         </a>
         <a href="https://twitter.com/Rowan_GW" >
-        <i class="fa fa-twitter"> </i>
+        <i class="fa fa-twitter"> </i> -->
         </a>
     </br>
     </div>
     <div style="float:right">
-        <img class ="image1" src="./figures/profile2.jpeg" width="" height="">
+        <img class ="image1" src="./figures/profile2.JPG" width="" height="">
     </div>
 </div>
 
@@ -47,17 +47,13 @@
 
 I am currently (2023-08-11) a sencond-year M.Phil. student in [HKUST(GZ)](https://www.hkust-gz.edu.cn) under the supervision of Prof. [Pan Hui](https://panhui.people.ust.hk/index.html) and Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/). My research interests include XR, Computational Privacy, and Networking.
 
-----
+<br><br><br>
 
 ## <small>Research interests</small>
 <font size=2>
 
-<!-- - Human Pose Estimation (P.S., with the help of xxx) -->
-- Privacy Protection for Extended Reality (XR) (P.S., with the help of A.I. methods)
-- Networking for XR (P.S., Information-centric networking, edge computing, etc.)
-- Previous research interest:
-  - <span style="color: gray;">Cloud and Edge Computing</span>
-  - <span style="color: gray;">Programming Language Runtime (P.S., Golang and Java)</span>
+- HMI: xxxx
+- HCI: xxxx
 
 </font>
 
@@ -66,29 +62,29 @@ I am currently (2023-08-11) a sencond-year M.Phil. student in [HKUST(GZ)](https:
 ## <small>Working and Education Experience</small>
 <font size=2>
 
-- HKUST(GZ), Guangzhou, China
-- Huawei Technologies Co., Ltd., Shanghai, China
-- Fudan University, Shanghai, China
-- Ant Group Co., Ltd., Hangzhou, China
-- eBay Inc., Shanghai, China
-- Harbin Engineering University, Harbin, China
+- Polimi
+- Tongji
+- SDU
 
-<!-- ##<small>Funding and awards</small> -->
+----
 
-<!-- - Red Bird Scholarship, 2022-2024, HKUST(GZ) -->
+## <small>Funding and awards</small>
+
+- Red Bird Scholarship, 2022-2024, HKUST(GZ)
 
 ----
 
 ## <small>Hobbies</small>
 <font size=2>
 
-- Basketball, Badminton, Ping-pong.
 - Chinese Calligraphy
-- Previous: League of Legends (LoL).
+- Photography
+- Traveling
+
 </font>
 
 ----
 
 ## <small>Publications</small>
 
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F8491953%2Fcollections%2FN8V49QLV%2Fitems%3Fkey%3DxUVOP2vkB66zdwZwhYwWtVIk%26format%3Dbibtex%26limit%3D100&jsonp=1"></script>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fzotero-mypublications%2F_MingYAN_&jsonp=1"></script>

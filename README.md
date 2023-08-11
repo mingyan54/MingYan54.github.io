@@ -1,3 +1,3 @@
-# Example MkDocs deploy GitHub Action
+# Ming Yan's Website
 
-This is a template that uses the  [MkDocs deploy](https://github.com/marketplace/actions/deploy-mkdocs) GitHub action.
+Link: mingyan.site / mingyan54.github.io
