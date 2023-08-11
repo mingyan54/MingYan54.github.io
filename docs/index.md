@@ -45,7 +45,7 @@
 
 <br><br><br>
 
-I am currently (2023-08-11) a sencond-year M.Phil. student in [HKUST(GZ)](https://www.hkust-gz.edu.cn) under the supervision of Prof. [Pan Hui](https://panhui.people.ust.hk/index.html) and Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/). My research interests include XR, Computational Privacy, and Networking.
+I am currently (2023-08-11) a Ph.D. candidate in [Politecnico di Milano](https://www.polimi.it/) under the supervision of Prof. [Pan Hui](https://panhui.people.ust.hk/index.html) and Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/). My research interests include XR, Computational Privacy, and Networking.
 
 <br><br><br>
 
