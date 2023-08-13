@@ -47,7 +47,7 @@
 
 I am currently (2023-08-11) a Ph.D. candidate in [Politecnico di Milano](https://www.polimi.it/) under the supervision of Prof. [xxx](link). My research interests include a, b, and c.
 
-Ming Yan is a designer and Ph.D. candidate in Design at [Politecnico di Milano](https://www.polimi.it/) (Italy) under the supervision of Prof. Lucia Rampino (https://dipartimentodesign.polimi.it/it/staff/show/136317) and Prof.Giandomenico Caruso (https://caruso.faculty.polimi.it/).
+Ming Yan is a designer and Ph.D. candidate in Design at [Politecnico di Milano](https://www.polimi.it/) (Italy) under the supervision of Prof. [Lucia Rampino](https://dipartimentodesign.polimi.it/it/staff/show/136317) and Prof. [Giandomenico Caruso](https://caruso.faculty.polimi.it/).
 
 Her core field of research is product and interaction design, focusing on theories of HMI in autonomous vehicles and the nature of design processes, particularly as they pertain to product innovation and creativity. Her Ph.D. research topic in this area is "User acceptance implications for Human-Machine Interfaces in shared autonomous vehicles——Study of HMI for automated shuttle buses through VR prototyping and evaluation."
 
