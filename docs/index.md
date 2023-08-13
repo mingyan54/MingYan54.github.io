@@ -149,4 +149,4 @@ Since 2013, her attention has concentrated on the opportunities that smarts and 
 - Lin Z, Villari B, Yan M, et al. “Integrating Speculative and Systemic Perspectives into Service Design Education in the Chinese Context” [J]. Journal of Futures Studies. [Accepted for publication: In press]
 - Yan M., Lu P, et al. “Speculating on Automated Shuttle Buses — a systemic design approach”, Journal of Design Research. [Full manuscript submitted]
 
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fzotero-mypublications%2F_MingYAN_&jsonp=1"></script>
+<!-- <script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fzotero-mypublications%2F_MingYAN_&jsonp=1"></script> -->
