@@ -136,7 +136,7 @@ Since 2013, her attention has concentrated on the opportunities that smarts and 
 
 ## <small>Publications</small>
 
-**ORCID** [Ming Yan](https://orcid.org/0000-0002-6416-7489)（0000-0002-6416-7489）<br>
+<!--**ORCID** [Ming Yan](https://orcid.org/0000-0002-6416-7489)（0000-0002-6416-7489）<br>-->
 **Google Scholar** [Ming Yan](https://scholar.google.com/citations?hl=zh-CN&user=d-37RHYAAAAJ)
 
 - Yan, M., Rampino, L., Caruso, G. “Perspectives on User’s Acceptance of Human-machine Interface in Autonomous Vehicles.” Proceedings of CAD’22, Beijing, China, July 11-13, 2022, 282-286. DOI: 10.14733/cadconfP.2022.282-286 [Already published]
@@ -147,6 +147,5 @@ Since 2013, her attention has concentrated on the opportunities that smarts and 
 - Yan M., Lin Z, Lu P, et al. “Speculative Exploration on Future Sustainable Human-Machine Interface Design in Automated Shuttle Buses” [J]. Sustainability, 2023, 15(6): 5497. https://doi.org/10.3390/ su15065497 [Already published]
 - Yan M., Geng W, Hui P. “Towards a 3D Evaluation Dataset for User Acceptance of Automated Shuttles” [C]//2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW). IEEE, 2023: 89-93. DOI 10.1109/VRW58643.2023.00023 [Already published]
 - Lin Z, Villari B, Yan M, et al. “Integrating Speculative and Systemic Perspectives into Service Design Education in the Chinese Context” [J]. Journal of Futures Studies. [Accepted for publication: In press]
-- Yan M., Lu P, et al. “Speculating on Automated Shuttle Buses — a systemic design approach”, Journal of Design Research. [Full manuscript submitted]
 
 <!-- <script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fzotero-mypublications%2F_MingYAN_&jsonp=1"></script> -->
